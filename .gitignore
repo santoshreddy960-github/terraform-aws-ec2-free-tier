@@ -1,0 +1,5 @@
+terraform-key
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+
